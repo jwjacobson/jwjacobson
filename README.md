@@ -13,7 +13,7 @@ Python · Django · FastAPI · PostgreSQL · Playwright · pytest · Docker · A
 ## a few things I've built
 
 - **[jazztunes](https://jazztunes.org)** — Django app for managing a jazz repertoire, with analytics and TDD throughout
-- **[bellona](https://github.com/jwjacobson/bellona)** — universal data ontology platform built with FastAPI and Agno
+- **[bellona](https://bellona.sh)** — universal data ontology platform built with FastAPI and Agno
 - **[jobsearch](https://github.com/jwjacobson/jobsearch)** — Playwright-based CLI tool for automating job board searches
 - **[gfetch](https://gfetch.dev)** — Gmail API app for creating offline email backups
 

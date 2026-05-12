@@ -1,10 +1,11 @@
 # Jeff Jacobson 🍃
 
-Backend-focused software engineer based in Boston. I work primarily in Python and Django, with experience across the full stack. I care about clean architecture, good tests, and code that's easy to reason about.
+ Backend-focused software engineer based in Boston. I work primarily in Python and Django, with experience across the full stack. I care about documentation -- by humans, for humans -- and testing. Designwise I favor solid color blocks, visibility of information, and responsiveness that supports usability.
 
-When I'm not writing code I'm playing piano or saxophone, writing tunes, or reading and thinking. I believe art is the most important thing humans do.
+When I'm not building software I'm playing piano or saxophone, writing tunes, or reading and thinking. I believe art is the most important thing humans do and am always up for talking about jazz or modernism. You can find my occasional thoughts on tech and philosophy on LinkedIn. 
 
-Currently working on some exciting fintech software at Alcove Ridge and teaching Python at Pybites, while contributing to open source and looking for my next full-time role.
+Currently consulting, teaching, and staying open to what comes next.
+
 
 ## things I work with
 
